@@ -1,0 +1,11 @@
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\bin\Debug\netcoreapp2.1\PracticaColecciones.deps.json
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\bin\Debug\netcoreapp2.1\PracticaColecciones.runtimeconfig.json
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\bin\Debug\netcoreapp2.1\PracticaColecciones.runtimeconfig.dev.json
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\bin\Debug\netcoreapp2.1\PracticaColecciones.dll
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\bin\Debug\netcoreapp2.1\PracticaColecciones.pdb
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\obj\Debug\netcoreapp2.1\PracticaColecciones.csprojAssemblyReference.cache
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\obj\Debug\netcoreapp2.1\PracticaColecciones.csproj.CoreCompileInputs.cache
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\obj\Debug\netcoreapp2.1\PracticaColecciones.AssemblyInfoInputs.cache
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\obj\Debug\netcoreapp2.1\PracticaColecciones.AssemblyInfo.cs
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\obj\Debug\netcoreapp2.1\PracticaColecciones.dll
+F:\Gonzalo\Documentos\CodeGZA\VisualStudioProjects\PracticaColecciones\PracticaColecciones\obj\Debug\netcoreapp2.1\PracticaColecciones.pdb
